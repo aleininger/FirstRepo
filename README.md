@@ -1,4 +1,6 @@
-#####
 # My first repo
-# Arndt Leininger
-###
+
+Arndt Leininger
+
+2 October 2014
+
